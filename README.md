@@ -9,19 +9,14 @@
 <br clear="both">
 
 <div align="center">
-  <img height="100" src="https://i.gifer.com/J4o.gif"  />
+  <img width="100%" height="400" src="https://github.com/Hamshinishetty/Hamshinishetty/blob/main/J4o.gif"  />
 </div>
 
 ###
 
 <p align="left">I'm currently diving deep into Java to build cool apps and powerful software♨️.<br>At the same time, I'm exploring Machine Learning 🤖 and Cybersecurity 🌐, solving digital puzzles, and keeping things safe.<br> I'm also eager to learn more about GraphQL ⚛️, a new way to get data for apps, to make my projects even cooler! <br>Recently, I finished learning Full Stack Development, covering both front and back ends of websites. It's been challenging, but I'm excited to build more cool projects!🧑🏻‍💻</p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamshinishetty&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamshinishetty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="left">Let's learn together and create amazing things!<br>Happy coding! 🚀</p>
 
 ###
 
@@ -57,8 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <div align="left">
@@ -78,8 +71,11 @@
 
 ###
 
-<br clear="both">
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamshinishetty&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamshinishetty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<p align="left">Let's learn together and create amazing things!<br>Happy coding! 🚀</p>
+<br clear="both">
 
 ###
