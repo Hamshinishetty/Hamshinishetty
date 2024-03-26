@@ -9,7 +9,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="https://i.gifer.com/J4o.gif"  />
+  <img height="100" src="https://i.gifer.com/J4o.gif"  />
 </div>
 
 ###
