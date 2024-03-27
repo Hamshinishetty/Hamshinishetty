@@ -1,5 +1,10 @@
 <h1 align="center">Hey 👾, How's it going?</h1>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=gradient&text=Its%20Hamshini%20here&textBg=false&fontAlign=50&fontSize=25"/>
+</p>
+
+
 ###
 
 <p align="center">A Tech enthusiast who loves exploring new technologies and constantly seeks opportunities to learn and grow. I believe in the power of collaboration, so feel free to ping me if you're interested in collaborating on any projects. Let's learn together and create something amazing!</p>
